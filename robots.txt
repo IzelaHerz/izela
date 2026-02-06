@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://izela.github.io/sitemap.xml
